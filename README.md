@@ -16,7 +16,7 @@ Alexandre Aono$^{1}$, James Nagai$^{1}$, Gabriella Dickel$^{2}$, Paulo Oliveira$
 
 **Keywords:** *deep learning, image classification, pattern recognition.* 
 
-![Overview](/home/nagai/Documentos/Projects/stomata/pipeline.png)
+![Overview](./img/pipeline.png)
 
 ### Files Organization
 
