@@ -24,12 +24,14 @@ Alexandre Aono$^{1}$, James Nagai$^{1}$, Gabriella Dickel$^{2}$, Paulo Oliveira$
 
 **Step 1: Stomata classification**
 
-- HOG [link](../src/image_descriptors/Descritores.ipynb)
+- HOG [link](./src/image_descriptors/Descritores.ipynb)
 
-- GIST/DAiSY [link](../src/image_descriptors/Descritores2.ipynb)
+- GIST/DAiSY [link](./src/image_descriptors/Descritores2.ipynb)
 
-- Haralick/LBP  [link](../src/image_descriptors/Descritores2.ipynb)
+- Haralick/LBP  [link](./src/image_descriptors/Descritores2.ipynb)
 
-- DCNN link [link](../src/deep_learning) ** Files name starts with 'Deep_' prefix
+- DCNN link [link](./src/deep_learning) 
 
+  - ** Files name starts with 'Deep_' prefix
+  
   
