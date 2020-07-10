@@ -1,4 +1,5 @@
 ##     Automated Stomata Classification and Detection in Microscope Images of Maize Cultivars
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3938047.svg)](https://doi.org/10.5281/zenodo.3938047)
 
 Alexandre Aono$^{1}$, James Nagai$^{1}$, Gabriella Dickel$^{2}$, Paulo Oliveira$^{2}$, Joao Paulo Papa$^{3}$, Fabio Augusto Faria$^{1}$*
 
@@ -22,7 +23,7 @@ Alexandre Aono$^{1}$, James Nagai$^{1}$, Gabriella Dickel$^{2}$, Paulo Oliveira$
 
 
 
-**Step 1: Stomata classification**
+###   Stomata classification
 
 - HOG [link](./src/image_descriptors/Descritores.ipynb)
 
@@ -32,6 +33,13 @@ Alexandre Aono$^{1}$, James Nagai$^{1}$, Gabriella Dickel$^{2}$, Paulo Oliveira$
 
 - DCNN link [link](./src/deep_learning) 
 
-  - ** Files name starts with 'Deep_' prefix
+  - Deep_: Files to used to generate the models and evaluate neural network architectures (Feature Extraction)
+  - DL: Evaluation of the trained models and archtectures
+
+### Slide Window Approach 
+
+[link](./src/sliding/)
+
+
   
   
