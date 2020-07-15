@@ -1,13 +1,13 @@
 ##     Automated Stomata Classification and Detection in Microscope Images of Maize Cultivars
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3938047.svg)](https://doi.org/10.5281/zenodo.3938047)
 
-Alexandre Aono$^{1}$, James Nagai$^{1}$, Gabriella Dickel$^{2}$, Paulo Oliveira$^{2}$, Joao Paulo Papa$^{3}$, Fabio Augusto Faria$^{1}$*
+Alexandre H. Aono<sup>1</sup> , James S. Nagai<sup>1</sup>, Gabriella da S. M. Dickel<sup>2</sup>, Rafaela C. Marinho<sup>2</sup>, Paulo E. A. M. de Oliveira<sup>2</sup>, Joao P. Papa<sup>3</sup>, Fabio A. Faria<sup>1</sup>*
 
-*$^{1}$ Instituto de Ciência e Tecnologia, Universidade Federal de São Paulo -  UNIFESP - 12247-014, São José dos Campos, SP-Brazil*
+<sup>1</sup> Instituto de Ciência e Tecnologia, Universidade Federal de São Paulo -  UNIFESP - 12247-014, São José dos Campos, SP-Brazil*
 
-*$^{2}$* Instituto *de Biologia, Universidade Federal de Uberlandia, Uberlandia, MG-Brazil*
+<sup>2</sup> Instituto *de Biologia, Universidade Federal de Uberlandia, Uberlandia, MG-Brazil*
 
-*$^{3}$* *Universidade Estadual de São Paulo - UNESP, Bauru, SP- Brazil*
+<sup>3</sup> *Universidade Estadual de São Paulo - UNESP, Bauru, SP- Brazil*
 
 ### Abstract
 
